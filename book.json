@@ -2,5 +2,7 @@
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        shortname: front-end-learning-note
+    }
 }
