@@ -3,6 +3,6 @@
         "disqus"
     ],
     "pluginsConfig": {
-        shortname: front-end-learning-note
+        shortName: front-end-learning-note
     }
 }
